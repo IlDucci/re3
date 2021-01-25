@@ -17407,7 +17407,7 @@ OPCIONES
 Configuración de gráficos
 
 [FET_PS]
-Configuración de hugador
+Configuración de jugador
 
 [FET_MIG]
 IZQUIERDA, DERECHA, RUEDA DEL RATÓN PARA AJUSTAR
